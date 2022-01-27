@@ -1,0 +1,12 @@
+{
+    "baseUrl": "https://example.cypress.io/todo",
+    "env": {
+        "FOO": "bar"
+    },
+    "viewportHeight": 800,
+    "viewportWidth": 1280,
+    "video": true,
+    "videosFolder": "cypress/videos",
+    "screenshotOnRunFailure": true,
+    "trashAssetsBeforeRuns": true
+}
