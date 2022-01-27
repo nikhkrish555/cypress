@@ -1,4 +1,4 @@
-# Cyress Automation
+# Cypress Automation
 
 Cypress is a web based UI automation tool. For more details: https://www.cypress.io/
 
